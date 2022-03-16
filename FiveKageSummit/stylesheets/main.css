@@ -64,3 +64,28 @@ table {
     padding-right: 30px;
     width: 960px;
    }
+/*==================Typography==================*/
+h1, h3, h4, h5, p {
+    margin-bottom: 22px;
+}
+/*==================Buttons==================*/
+.btn {
+    margin: 0;
+    border-radius: 15px;
+    display: inline-block;
+}
+
+.btn-alt {
+    border: 1px solid gray;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
+/*==================Home==================*/
+.homeMainSection {
+    padding-top: 22px;
+    padding-right: 80px;
+    padding-bottom: 60px;
+    padding-left: 80px;
+}
