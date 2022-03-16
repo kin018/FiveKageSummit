@@ -92,3 +92,18 @@ h1, h3, h4, h5, p {
     padding-bottom: 66px;
     padding-left: 80px;
 }
+/*==================Clearfix==================*/
+.group:before,
+.group:after {
+    content: "";
+    display: table;
+}
+
+.group:after {
+    clear: both;
+}
+
+.group {
+    clear: both;
+    *zoom: 1;
+}
