@@ -28,22 +28,22 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="5index.html">
+    <Content Include="index.html">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="5schedule.html">
+    <Content Include="schedule.html">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="5speakers.html">
+    <Content Include="speakers.html">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="5venue.html">
+    <Content Include="venue.html">
       <SubType>Code</SubType>
     </Content>
     <Content Include="JavaScript.js">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="5register.html">
+    <Content Include="register.html">
       <SubType>Code</SubType>
     </Content>
     <Content Include="server.js" />
