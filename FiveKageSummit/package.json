@@ -1,0 +1,9 @@
+{
+  "name": "five-kage-summit",
+  "version": "0.0.0",
+  "description": "FiveKageSummit",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}

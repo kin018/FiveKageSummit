@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "FiveKageSummit", "FiveKageSummit\FiveKageSummit.njsproj", "{F53C3610-22DE-4FCB-9D30-08C4F8C98E84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F53C3610-22DE-4FCB-9D30-08C4F8C98E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F53C3610-22DE-4FCB-9D30-08C4F8C98E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F53C3610-22DE-4FCB-9D30-08C4F8C98E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F53C3610-22DE-4FCB-9D30-08C4F8C98E84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2651C64-2C80-4336-862B-C40B36DEEE29}
+	EndGlobalSection
+EndGlobal
