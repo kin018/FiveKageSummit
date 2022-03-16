@@ -107,3 +107,20 @@ h1, h3, h4, h5, p {
     clear: both;
     *zoom: 1;
 }
+/*==================Primary Header==================*/
+.logo {
+    border-top: 4px solid #000000;
+    float: left;
+    padding-top: 40px;
+    padding-right: 0px;
+    padding-bottom: 22px;
+    padding-left: 0px;
+}
+/*==================Primary Footer==================*/
+.primary-footer {
+    padding-top: 44px;
+    padding-bottom: 44px;
+}
+    .primary-footer span {
+        float: left;
+    }
