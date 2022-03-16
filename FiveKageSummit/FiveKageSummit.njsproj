@@ -40,9 +40,6 @@
     <Content Include="venue.html">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="JavaScript.js">
-      <SubType>Code</SubType>
-    </Content>
     <Content Include="register.html">
       <SubType>Code</SubType>
     </Content>
