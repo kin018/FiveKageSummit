@@ -49,12 +49,13 @@
     <Content Include="server.js" />
     <Content Include="package.json" />
     <Content Include="README.md" />
-    <Content Include="stylesheets\main.css">
+    <Content Include="assets\stylesheets\main.css">
       <SubType>Code</SubType>
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="stylesheets\" />
+    <Folder Include="assets\" />
+    <Folder Include="assets\stylesheets\" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\Node.js Tools\Microsoft.NodejsToolsV2.targets" />
   <ProjectExtensions>

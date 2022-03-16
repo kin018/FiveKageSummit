@@ -79,14 +79,14 @@ h1, h3, h4, h5, p {
 }
 
 .btn-alt {
-    border: 1px solid #727578;
+    border: 1px solid #000000;
     padding-top: 10px;
     padding-right: 30px;
     padding-bottom: 10px;
     padding-left: 30px;
 }
 /*==================Home==================*/
-.homeMainSection {
+.homePageMainSection {
     padding-top: 22px;
     padding-right: 80px;
     padding-bottom: 66px;
