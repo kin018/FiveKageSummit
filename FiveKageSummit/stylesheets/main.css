@@ -1,4 +1,7 @@
-/* http://meyerweb.com/eric/tools/css/reset/ */
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -63,7 +66,7 @@ table {
     padding-left: 30px;
     padding-right: 30px;
     width: 960px;
-   }
+}
 /*==================Typography==================*/
 h1, h3, h4, h5, p {
     margin-bottom: 22px;
@@ -76,7 +79,7 @@ h1, h3, h4, h5, p {
 }
 
 .btn-alt {
-    border: 1px solid gray;
+    border: 1px solid #727578;
     padding-top: 10px;
     padding-right: 30px;
     padding-bottom: 10px;
@@ -86,6 +89,6 @@ h1, h3, h4, h5, p {
 .homeMainSection {
     padding-top: 22px;
     padding-right: 80px;
-    padding-bottom: 60px;
+    padding-bottom: 66px;
     padding-left: 80px;
 }
