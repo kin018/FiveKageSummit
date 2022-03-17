@@ -143,3 +143,8 @@ h1, h3, h4, h5, p {
     .primary-footer span {
         float: left;
     }
+/*==================Custom Styles==================*/
+body {
+    color: #888;
+    font:300 16px/24px Dosis, Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
