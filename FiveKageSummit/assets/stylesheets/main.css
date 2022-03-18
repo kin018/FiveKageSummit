@@ -87,8 +87,41 @@ table {
     width: 66.66%;
 }
 /*==================Typography==================*/
+h1, h3, h4, h5 {
+    color: midnightblue;
+}
+
 h1, h3, h4, h5, p {
     margin-bottom: 22px;
+}
+
+h1 {
+    font-size: 32px;
+    line-height: 44px;
+}
+
+h2 {
+    font-size: 24px;
+    line-height: 44px;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+h5 {
+    color: green;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+cite, em {
+    font-style: italic;
 }
 /*==================Buttons==================*/
 .btn {
@@ -127,12 +160,13 @@ h1, h3, h4, h5, p {
 }
 /*==================Primary Header==================*/
 .logo {
-    border-top: 4px solid #000000;
+    border-top: 4px solid aqua;
     float: left;
     padding-top: 40px;
     padding-right: 0px;
     padding-bottom: 22px;
     padding-left: 0px;
+    font-size: 48px;
 }
 /*==================Primary Footer==================*/
 .primary-footer {
@@ -145,6 +179,14 @@ h1, h3, h4, h5, p {
     }
 /*==================Custom Styles==================*/
 body {
-    color: #888;
-    font:300 16px/24px Dosis, Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    color: blueviolet;
+    font: 300 16px/24px Dosis, Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+/*==================Buttons==================*/
+a:hover {
+    color: #a9b2b9;
+}
+
+a {
+    color: orangered;
 }
