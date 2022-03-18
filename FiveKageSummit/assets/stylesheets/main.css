@@ -206,6 +206,7 @@ p a {
     .primary-footer span {
         float: left;
         font-weight: 400;
+        text-transform:none
     }
 /*==================Navigation==================*/
 .nav{
