@@ -187,7 +187,8 @@ p a {
     margin-right: 0px;
     margin-bottom: 22px;
     margin-left: 0px;
-}
+    text-align: right;
+  }
 
 .primary-nav {
     font-size: 16px;
@@ -198,9 +199,9 @@ p a {
 .primary-footer {
     padding-top: 44px;
     padding-bottom: 44px;
-    font-size: 16px;
+    font-size: 14px;
     color: black;
-    text-transform: uppercase;
+    text-transform: none;
 }
 
     .primary-footer span {
@@ -219,6 +220,7 @@ p a {
     padding-bottom: 66px;
     padding-left: 80px;
     line-height: 44px;
+    text-align:left;
 }
 .homePageMainSection h2{
     font-size: 31px;
