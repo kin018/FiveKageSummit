@@ -143,6 +143,14 @@ cite, em {
     padding-right: 80px;
     padding-bottom: 66px;
     padding-left: 80px;
+    line-height: 44px;
+}
+.homePageMainSection h2{
+    font-size: 31px;
+}
+.homePageMainSection p{
+    font-size: 22px;
+    font-weight: 200;
 }
 /*==================Clearfix==================*/
 .group:before, .group:after {
@@ -168,24 +176,29 @@ cite, em {
     padding-left: 0px;
     font-size: 48px;
 }
+
 .taglineDateAndLocation {
     margin-top: 66px;
-    margin-right:0px;
-    margin-bottom:22px;
-    margin-left:0px;
+    margin-right: 0px;
+    margin-bottom: 22px;
+    margin-left: 0px;
 }
+
 .primary-nav {
     font-size: 16px;
-    font-weight: 400;    
+    font-weight: 400;
 }
 /*==================Primary Footer==================*/
 .primary-footer {
     padding-top: 44px;
     padding-bottom: 44px;
+    font-size: 16px;
+    color:darkred
 }
 
     .primary-footer span {
         float: left;
+        font-weight: 400;
     }
 /*==================Custom Styles==================*/
 body {
