@@ -152,6 +152,9 @@ cite, em {
     font-size: 22px;
     font-weight: 200;
 }
+.homePageTeaser a:hover h3 {
+    color: #a9b2b9;
+}
 /*==================Clearfix==================*/
 .group:before, .group:after {
     content: "";
