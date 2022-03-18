@@ -56,6 +56,7 @@ table {
 body {
     color: blueviolet;
     font: 300 16px/24px Dosis, Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    background: #0E0240;
 }
 /*==================GRID==================*/
 *, *:before, *:after {
