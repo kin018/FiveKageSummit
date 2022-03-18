@@ -204,6 +204,10 @@ p a {
         float: left;
         font-weight: 400;
     }
+/*==================Navigation==================*/
+.nav{
+    text-align:right;
+}
 /*==================Home==================*/
 .homePageMainSection {
     padding-top: 22px;
