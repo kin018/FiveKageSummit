@@ -168,6 +168,16 @@ cite, em {
     padding-left: 0px;
     font-size: 48px;
 }
+.taglineDateAndLocation {
+    margin-top: 66px;
+    margin-right:0px;
+    margin-bottom:22px;
+    margin-left:0px;
+}
+.primary-nav {
+    font-size: 14px;
+    font-weight: 400;    
+}
 /*==================Primary Footer==================*/
 .primary-footer {
     padding-top: 44px;
