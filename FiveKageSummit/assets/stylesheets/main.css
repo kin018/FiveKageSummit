@@ -54,7 +54,7 @@ table {
 
 /*==================Custom Styles==================*/
 body {
-    color: blueviolet;
+    color: white;
     font: 300 16px/24px Dosis, Cambria, Cochin, Georgia, Times, Times New Roman, serif;
     background: #0E0240;
 }
@@ -108,7 +108,7 @@ body {
 }
 /*==================Typography==================*/
 h1, h3, h4, h5 {
-    color: midnightblue;
+    color: #F10899;
 }
 
 h1, h3, h4, h5, p {
@@ -201,7 +201,7 @@ p a {
     padding-top: 44px;
     padding-bottom: 44px;
     font-size: 14px;
-    color: black;
+    color: orangered;
     text-transform: none;
 }
 
