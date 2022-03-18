@@ -179,6 +179,7 @@ p a {
     padding-bottom: 22px;
     padding-left: 0px;
     font-size: 48px;
+    text-transform: uppercase;
 }
 
 .taglineDateAndLocation {
@@ -191,13 +192,15 @@ p a {
 .primary-nav {
     font-size: 16px;
     font-weight: 400;
+    text-transform: uppercase;
 }
 /*==================Primary Footer==================*/
 .primary-footer {
     padding-top: 44px;
     padding-bottom: 44px;
     font-size: 16px;
-    color:black;
+    color: black;
+    text-transform: uppercase;
 }
 
     .primary-footer span {
