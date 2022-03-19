@@ -55,7 +55,7 @@ table {
 /*==================Custom Styles==================*/
 body {
     color: #9012FE;
-    font: 300 16px/24px Dosis, Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font: 420 16px/24px Dosis, Cambria, Cochin, Georgia, Times, Times New Roman, serif;
     background: #060225;
 }
 /*==================GRID==================*/
@@ -128,7 +128,7 @@ body {
 /*==================Typography==================*/
 h1, h3, h4, h5 {
     color: orangered;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 h1, h3, h4, h5, p {
@@ -156,7 +156,7 @@ h4 {
 h5 {
     color: #FF3366;
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 720;
     text-transform: uppercase;
 }
 
