@@ -114,6 +114,9 @@ body {
 .row {
     background: white;
     padding: 66px 0 44px 0;
+    border: 10px groove;    
+    border-color:orangered;
+    border-radius: 5px;
 }
 .row-alt {
     background: #060225;
