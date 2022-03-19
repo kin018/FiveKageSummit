@@ -265,6 +265,15 @@ p a {
 .nav{
     text-align:right;
 }
+.nav li {
+  display: inline-block;
+  margin: 0 5px;
+  vertical-align: top;
+}
+.nav li:last-child {
+  margin-right: 0;
+}
+
 /*==================Home==================*/
 .homePageMainSection {
     padding-top: 22px;
@@ -285,11 +294,24 @@ p a {
 .homePageTeaser a:hover h3 {
     color: #a9b2b9;
 }
+/*==================Speakers==================*/
+.speaker {
+  margin-bottom: 44px;
+}
+.speaker-info {
+  border: 19px solid #dfe2e5;
+  border-radius: 5px;
+  margin-top: 88px;
+  padding: 22px 0;
+  text-align: center;
+}
+
 /*==================Baka==================*/
 .baka{
     color:ghostwhite;
 }
 /*==================Jawn==================*/
-.jawn{
+.jawn {
     border-style: hidden;
+    border-radius: 0;
 }
