@@ -122,8 +122,10 @@ body {
     background: #060225;
     background: -webkit-radial-gradient(#190087, #3E00B3, #6B00D7);
     background: -moz-radial-gradient(#190087, #3E00B3, #6B00D7);
-    background: radial-gradient(#190087, #3E00B3, #6B00D7);
+    background: radial-gradient(#190087, #3E00B3, #6B00D7,#FF3366);
     padding: 44px 0 22px 0;
+    border: hidden;
+    border-radius:2.5px;
 }
 /*==================Typography==================*/
 h1, h3, h4, h5 {
@@ -282,4 +284,8 @@ p a {
 }
 .homePageTeaser a:hover h3 {
     color: #a9b2b9;
+}
+/*==================Baka==================*/
+.baka{
+    color:ghostwhite;
 }
