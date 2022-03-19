@@ -112,8 +112,8 @@ body {
   min-width: 960px;
 }
 .row {
-  background: #fff;
-  padding: 66px 0 44px 0;
+    background: black;
+    padding: 66px 0 44px 0;
 }
 .row-alt {
   background: #cbe2c1;
@@ -251,7 +251,9 @@ p a {
     .primary-footer span {
         float: left;
         font-weight: 400;
-        text-transform:none
+        text-transform:none;
+        color:yellow;
+
     }
 /*==================Navigation==================*/
 .nav{
@@ -264,7 +266,8 @@ p a {
     padding-bottom: 66px;
     padding-left: 80px;
     line-height: 44px;
-    text-align:center;
+    text-align: center;
+    color: orangered;
 }
 .homePageMainSection h2{
     font-size: 31px;
