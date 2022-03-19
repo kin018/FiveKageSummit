@@ -34,7 +34,7 @@
     <Content Include="schedule.html">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="speakers.html">
+    <Content Include="Speakers.html">
       <SubType>Code</SubType>
     </Content>
     <Content Include="venue.html">
