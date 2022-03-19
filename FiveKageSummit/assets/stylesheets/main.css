@@ -54,7 +54,7 @@ table {
 
 /*==================Custom Styles==================*/
 body {
-    color: white;
+    color: #9012FE;
     font: 300 16px/24px Dosis, Cambria, Cochin, Georgia, Times, Times New Roman, serif;
     background: #060225;
 }
@@ -112,19 +112,20 @@ body {
   min-width: 960px;
 }
 .row {
-    background: black;
+    background: white;
     padding: 66px 0 44px 0;
 }
 .row-alt {
     background: #060225;
-    background: -webkit-linear-gradient(to top, #FF8103,#FF1C6A,#E200A3,#9B04DB,#6D1DC6);
-    background: -moz-linear-gradient(to top, #FF8103,#FF1C6A,#E200A3,#9B04DB,#6D1DC6);
-    background: linear-gradient(to top, #FF8103,#FF1C6A,#E200A3,#9B04DB,#6D1DC6);
+    background: -webkit-radial-gradient(#190087, #3E00B3, #6B00D7);
+    background: -moz-radial-gradient(#190087, #3E00B3, #6B00D7);
+    background: radial-gradient(#190087, #3E00B3, #6B00D7);
     padding: 44px 0 22px 0;
 }
 /*==================Typography==================*/
 h1, h3, h4, h5 {
-    color: #F10899;
+    color: orangered;
+    font-weight: 500;
 }
 
 h1, h3, h4, h5, p {
@@ -150,7 +151,7 @@ h4 {
 }
 
 h5 {
-    color: green;
+    color: #FF3366;
     font-size: 14px;
     font-weight: 700;
     text-transform: uppercase;
@@ -183,13 +184,13 @@ p a {
 
 .primary-header a,
 .primary-footer a {
-  color: #fff;
+    color: #9012FE;
 }
 
-.primary-header a:hover,
-.primary-footer a:hover {
-  color: #648880;
-}
+    .primary-header a:hover,
+    .primary-footer a:hover {
+        color: #a9b2b9;
+    }
 /*==================Buttons==================*/
 .btn {
     margin: 0;
@@ -216,7 +217,7 @@ p a {
 
 /*==================Primary Header==================*/
 .logo {
-    border-top: 4px solid aqua;
+    border-top: 4px solid greenyellow;
     float: left;
     padding-top: 40px;
     padding-right: 0px;
@@ -252,7 +253,7 @@ p a {
         float: left;
         font-weight: 400;
         text-transform:none;
-        color:yellow;
+        color:orangered;
 
     }
 /*==================Navigation==================*/
@@ -267,7 +268,7 @@ p a {
     padding-left: 80px;
     line-height: 44px;
     text-align: center;
-    color: #FF8103;
+    color: ghostwhite;
 }
 .homePageMainSection h2{
     font-size: 31px;
