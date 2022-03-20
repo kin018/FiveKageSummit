@@ -294,6 +294,12 @@ p a {
 .homePageTeaser a:hover h3 {
     color: #a9b2b9;
 }
+.homePageTeaser img {
+    border-radius: 5px;
+    display: block;
+    margin-bottom: 22px;
+    max-width: 100%
+}
 /*==================Speakers==================*/
 .speaker {
   margin-bottom: 44px;
@@ -305,7 +311,12 @@ p a {
   padding: 22px 0;
   text-align: center;
 }
-
+.speaker-info img {
+  border-radius: 50%;
+  height: 130px;
+  margin: -66px 0 22px 0;
+  vertical-align: top;
+}
 /*==================Baka==================*/
 .baka{
     color:ghostwhite;
