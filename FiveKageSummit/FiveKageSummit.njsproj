@@ -28,6 +28,15 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="assets\images\homepage\Gokage_hats.jpg" />
+    <Content Include="assets\images\homepage\schedule.jpg" />
+    <Content Include="assets\images\homepage\Skytree.jpg" />
+    <Content Include="assets\images\speakers\A.jpg" />
+    <Content Include="assets\images\speakers\Danzo.jpg" />
+    <Content Include="assets\images\speakers\Gaara.jpg" />
+    <Content Include="assets\images\speakers\Mei.jpg" />
+    <Content Include="assets\images\speakers\Mifune.jpg" />
+    <Content Include="assets\images\speakers\Onoki.jpg" />
     <Content Include="index.html">
       <SubType>Code</SubType>
     </Content>
@@ -52,6 +61,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="assets\" />
+    <Folder Include="assets\images\" />
+    <Folder Include="assets\images\homepage\" />
+    <Folder Include="assets\images\speakers\" />
     <Folder Include="assets\stylesheets\" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\Node.js Tools\Microsoft.NodejsToolsV2.targets" />
