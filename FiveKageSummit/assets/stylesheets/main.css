@@ -318,6 +318,12 @@ p a {
   vertical-align: top;
 }
 /*==================Venue==================*/
+.venue-tower {
+    margin-bottom: 66px;
+}
+.venue-map {
+    height: 264px;
+}
 
 /*==================Baka==================*/
 .baka{
