@@ -109,15 +109,17 @@ body {
 /*==================Rows==================*/
 .row,
 .row-alt {
-  min-width: 960px;
+    min-width: 960px;
 }
+
 .row {
     background: white;
     padding: 66px 0 44px 0;
-    border: 10px groove;    
-    border-color:orangered;
+    border: 10px groove;
+    border-color: orangered;
     border-radius: 5px;
 }
+
 .row-alt {
     background: #060225;
     background: -webkit-radial-gradient(#190087, #3E00B3, #6B00D7);
@@ -125,12 +127,11 @@ body {
     background: radial-gradient(#190087, #3E00B3, #6B00D7,#FF3366);
     padding: 44px 0 22px 0;
     border: hidden;
-    border-radius:2.5px;
+    border-radius: 2.5px;
 }
+
 .rowNah {
-    
     padding: 66px 0 44px 0;
-   
 }
 /*==================Typography==================*/
 h1, h3, h4, h5 {
@@ -172,12 +173,13 @@ cite, em {
 }
 /*==================Leads==================*/
 .lead {
-  text-align: center;
+    text-align: center;
 }
-.lead p {
-  font-size: 21px;
-  line-height: 33px;
-}
+
+    .lead p {
+        font-size: 21px;
+        line-height: 33px;
+    }
 /*==================Links==================*/
 a {
     color: #FF8103;
@@ -220,10 +222,10 @@ p a {
     padding-left: 30px;
 }
 
-.btn-alt:hover {
-  background: white;
-  color: #924DF9;
-}
+    .btn-alt:hover {
+        background: white;
+        color: #924DF9;
+    }
 
 /*==================Primary Header==================*/
 .logo {
@@ -243,7 +245,7 @@ p a {
     margin-bottom: 22px;
     margin-left: 0px;
     text-align: right;
-  }
+}
 
 .primary-nav {
     font-size: 16px;
@@ -262,22 +264,23 @@ p a {
     .primary-footer span {
         float: left;
         font-weight: 400;
-        text-transform:none;
-        color:orangered;
-
+        text-transform: none;
+        color: orangered;
     }
 /*==================Navigation==================*/
-.nav{
-    text-align:right;
+.nav {
+    text-align: right;
 }
-.nav li {
-  display: inline-block;
-  margin: 0 5.5px;
-  vertical-align: top;
-}
-.nav li:last-child {
-  margin-right: 0;
-}
+
+    .nav li {
+        display: inline-block;
+        margin: 0 5.5px;
+        vertical-align: top;
+    }
+
+        .nav li:last-child {
+            margin-right: 0;
+        }
 
 /*==================Home==================*/
 .homePageMainSection {
@@ -289,16 +292,20 @@ p a {
     text-align: center;
     color: ghostwhite;
 }
-.homePageMainSection h2{
-    font-size: 31px;
-}
-.homePageMainSection p{
-    font-size: 22px;
-    font-weight: 200;
-}
+
+    .homePageMainSection h2 {
+        font-size: 31px;
+    }
+
+    .homePageMainSection p {
+        font-size: 22px;
+        font-weight: 200;
+    }
+
 .homePageTeaser a:hover h3 {
     color: #a9b2b9;
 }
+
 .homePageTeaser img {
     border-radius: 5px;
     display: block;
@@ -307,35 +314,39 @@ p a {
 }
 /*==================Speakers==================*/
 .speaker {
-  margin-bottom: 44px;
+    margin-bottom: 44px;
 }
+
 .speaker-info {
-  border: 19px solid #dfe2e5;
-  border-radius: 5px;
-  margin-top: 88px;
-  padding: 22px 0;
-  text-align: center;
+    border: 19px solid #dfe2e5;
+    border-radius: 5px;
+    margin-top: 88px;
+    padding: 22px 0;
+    text-align: center;
 }
-.speaker-info img {
-  border-radius: 50%;
-  height: 130px;
-  margin: -66px 0 22px 0;
-  vertical-align: top;
-}
+
+    .speaker-info img {
+        border-radius: 50%;
+        height: 130px;
+        margin: -66px 0 22px 0;
+        vertical-align: top;
+    }
 /*==================Venue==================*/
 .venue-tower {
     margin-bottom: 66px;
 }
+
 .venue-hotel {
     margin-bottom: 22px;
 }
+
 .venue-map {
     height: 264px;
 }
 
 /*==================Baka==================*/
-.baka{
-    color:ghostwhite;
+.baka {
+    color: ghostwhite;
 }
 /*==================Jawn==================*/
 .jawn {
